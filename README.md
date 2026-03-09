@@ -1,62 +1,58 @@
-<div align="center">
-  <h1>Hi, I'm Mohammed Saadi! 👋</h1>
-  <p>A Backend Developer | Athlete | Problem Solver</p>
-</div>
+# Hi, I'm Mohammed Saadi 👋
 
----
+**Backend / Full-Stack Developer**
+**Python, FastAPI, Next.js, PostgreSQL, Docker**
 
-<div align="center">
-  <h2>Greetings!</h2>
-  <p>
-    I specialize in <b>Python Backend Development</b>, crafting robust and scalable solutions. My journey is unique, blending a strong technical foundation with the discipline and performance-driven mindset honed as a professional athlete.
-  </p>
-  <p>
-    My path is a testament to discipline, innovation, and a relentless focus on performance optimization. Initially, my passion for development sparked during <b>2 years of Computer Science studies at university</b>, where I gained a solid coding foundation.
-  </p>
-  <p>
-    This was followed by an impactful period as a <b>professional athlete</b>, culminating in representing my national gymnastics team. My dedication to high performance extended to academics, where I pursued a <b>Master's Degree in Sport Science</b>. I then applied these leadership and organizational skills professionally as a <b>Gymnastics Coach & Fitness Manager in Abu Dhabi for 2 years</b>.
-  </p>
-  <p>
-    <b>Currently, I am working as a Remote Backend Developer</b>, actively building efficient, resilient, and highly optimized systems. I also maintain my commitment to personal growth through <b>CrossFit training as an athlete</b>, continuously leveraging the discipline and performance-driven mindset from my athletic background. I bring a unique, holistic perspective to every technical challenge.
-  </p>
-</div>
+I build scalable backend systems, SaaS platforms, and performance-focused web applications.
 
----
+Currently, I serve as **CIO at Club Manager**, a sports management platform used by professional football clubs in Algeria.
 
-<div align="center">
-  <h2>My Toolkit 🧰</h2>
+## What I Do
+- Build backend systems with **Python** and **FastAPI**
+- Develop full-stack products with **Next.js**
+- Design APIs, authentication systems, and business workflows
+- Contribute to real-world sports tech and performance platforms
 
-  <h3>Languages & Frameworks:</h3>
-  <p>
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-    <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI">
-    <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django">
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
-    <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React">
-    <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js">
-  </p>
+## Featured Projects
 
-  </div>
+### Club Manager
+Sports management SaaS platform for professional clubs.  
+**Role:** CIO  
+**Stack:** FastAPI, Next.js, PostgreSQL, Docker  
+🔗 https://club-manager.pro
 
+### HBT Performance Hub
+Performance tracking platform built with FastAPI and Next.js.  
+🔗 https://hbt-performance-hub.vercel.app/en
 
----
+### Alhazm Project
+Full-stack Next.js application.  
+🔗 https://alhazm.vercel.app
 
-<div align="center">
-  <h2>MhmdSaadi GitHub Stats</h2>
-  <img src="https://github-readme-stats.vercel.app/api?username=MhmdSaadi&show_icons=true&theme=nord&hide_border=true&count_private=true" alt="MhmdSaadi's GitHub Stats">
-  <br>
-  <h2>Most Used Languages</h2>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MhmdSaadi&layout=compact&theme=nord&hide_border=true" alt="MhmdSaadi's Top Langs">
-</div>
+### Gym Click
+Fitness-related project focused on digital user workflows.  
+🔗 https://github.com/MhmdSaadi/GYM_CLICK
 
----
+### Invoice Project
+Backend/business logic project for invoice management.  
+🔗 https://github.com/MhmdSaadi/invoice_project
 
-<div align="center">
-  <h2>Let's Connect! ✉️</h2>
-  <p>
-    I'm always open to discussing new opportunities, collaborating on innovative projects, or sharing insights on backend development and performance.
-  </p>
-  <p>
-    <a href="https://www.linkedin.com/in/mohammed-saadi-327ba6370/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-    </p>
-</div>
+## Tech Stack
+- **Backend:** Python, FastAPI, Django
+- **Frontend:** Next.js, React, JavaScript
+- **Database:** PostgreSQL
+- **Tools:** Docker, Git, GitHub
+
+## Background
+My path combines software engineering, sports performance, and leadership.  
+That gives me a practical mindset: discipline, consistency, and building systems that perform under real-world pressure.
+
+## Open To
+- Remote Backend Developer roles
+- Full-Stack Developer roles
+- Freelance API / SaaS projects
+
+## Contact
+- GitHub: https://github.com/MhmdSaadi
+- LinkedIn: https://www.linkedin.com/in/mohammed-saadi-327ba6370/
+- Email: mhmd.dev3@gmail.com
