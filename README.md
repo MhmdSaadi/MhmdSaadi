@@ -52,6 +52,19 @@ That gives me a practical mindset: discipline, consistency, and building systems
 - Full-Stack Developer roles
 - Freelance API / SaaS projects
 
+## My Journey (in Python)
+
+I even wrote my story as a Python class 😄
+
+```python
+from mhm import MyJourney
+
+my_profile = MyJourney()
+my_profile.tell_my_story()
+```
+
+> Run it yourself: `python mhm.py`
+
 ## Contact
 - GitHub: https://github.com/MhmdSaadi
 - LinkedIn: https://www.linkedin.com/in/mohammed-saadi-327ba6370/
