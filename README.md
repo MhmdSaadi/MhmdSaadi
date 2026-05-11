@@ -65,10 +65,11 @@ Full-stack gym e-commerce system built with FastAPI + React.
 
 ---
 
-### Invoice API
-Dockerized Django REST API for generating and downloading PDF invoices.
+### FPA Coaching App
+Full-stack coaching platform with FastAPI backend, Next.js dashboard, and standalone auth service
 
-🔗 https://github.com/MhmdSaadi/invoice_project
+
+🔗 https://app.fpa-coaching.com
 
 ---
 
