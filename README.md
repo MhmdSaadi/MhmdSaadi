@@ -31,12 +31,8 @@ Clubs currently testing the platform include:
 - Paradou AC  
 - Ben Aknoun  
 
-Tech stack:
-
-FastAPI  
-Next.js  
-PostgreSQL  
-Docker  
+Tech stack:  
+FastAPI • Next.js • PostgreSQL • Docker  
 
 🔗 https://club-manager.pro
 
@@ -44,17 +40,21 @@ Docker
 
 ## 💻 Featured Projects
 
+### AcademyManager (AM)
+An all-in-one ERP and multi-tenant digital operating system built specifically for private football academies. It streamlines member subscriptions, financials, field rentals, event management, staff workflows, and generates branded public landing pages for academies to drive registrations.
+
+* **Multi-Tenant ERP:** Built to manage registrations, custom billing workflows, tryouts, and complex scheduling.
+* **Operational Scale:** Powering 3+ active academies, tracking 400+ players, with 99.9% uptime.
+* **Localization & Flexibility:** Full AR / FR / EN multi-language support to cater to diverse communities.
+* **Manual-Activation SaaS Model:** Incorporates custom offline-activation and payment confirmation workflows (via WhatsApp/Email).
+* **Tech Stack:** Next.js • FastAPI • PostgreSQL • Docker
+
+---
+
 ### HBT Performance Hub
 Performance tracking platform built with FastAPI and Next.js.
 
 🔗 https://hbt-performance-hub.vercel.app/en
-
----
-
-### Alhazm Project
-Full-stack Next.js application.
-
-🔗 https://alhazm.vercel.app
 
 ---
 
@@ -66,8 +66,7 @@ Full-stack gym e-commerce system built with FastAPI + React.
 ---
 
 ### FPA Coaching App
-Full-stack coaching platform with FastAPI backend, Next.js dashboard, and standalone auth service
-
+Full-stack coaching platform with FastAPI backend, Next.js dashboard, and standalone auth service.
 
 🔗 https://app.fpa-coaching.com
 
@@ -75,17 +74,13 @@ Full-stack coaching platform with FastAPI backend, Next.js dashboard, and standa
 
 ## ⚙️ Tech Stack
 
-Backend  
-Python • FastAPI • Django
+**Backend** Python • FastAPI • Django
 
-Frontend  
-Next.js • React • JavaScript • TypeScript
+**Frontend** Next.js • React • JavaScript • TypeScript
 
-Database  
-PostgreSQL • Redis
+**Database & Caching** PostgreSQL • Redis
 
-DevOps  
-Docker • Git • GitHub
+**DevOps & Tools** Docker • Git • GitHub
 
 ---
 
@@ -107,11 +102,8 @@ As a former national-level gymnast and coach, I bring discipline, consistency, a
 
 ## 📫 Contact
 
-GitHub  
-https://github.com/MhmdSaadi  
+**GitHub** https://github.com/MhmdSaadi  
 
-LinkedIn  
-https://www.linkedin.com/in/mohammed-saadi-327ba6370/
+**LinkedIn** https://www.linkedin.com/in/mohammed-saadi-327ba6370/
 
-Email  
-mhmd.dev3@gmail.com
+**Email** mhmd.dev3@gmail.com
