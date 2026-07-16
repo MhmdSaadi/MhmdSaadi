@@ -16,24 +16,19 @@ My work focuses on designing APIs, building full-stack products, and creating sy
 ### Club Manager Pro  
 Co-Founder & CIO  
 
-Club Manager Pro is a sports management SaaS platform designed for professional football clubs.
+Club Manager Pro is an enterprise sports management SaaS platform designed for professional football clubs. It is actively deployed in production to streamline athletic and team operations.
 
-The platform helps clubs manage:
+The platform enables clubs to manage:
+* **Athletic Profiles:** Longitudinal performance tracking and medical history.
+* **Training Periodization:** Dynamic development of specialized microcycles and training programs.
+* **Operational Workflows:** Complete management of team schedules, travel logistics, and staff operations.
 
-• Athletes  
-• Training programs  
-• Performance tracking  
-• Team operations  
+**Active Production Deployments:**
+* MCA Alger
+* Paradou AC
+* ES Ben Aknoun
 
-Clubs currently testing the platform include:
-
-- MCA Alger  
-- Paradou AC  
-- Ben Aknoun  
-
-Tech stack:  
-FastAPI • Next.js • PostgreSQL • Docker  
-
+**Tech Stack:** FastAPI • Next.js • PostgreSQL • Docker  
 🔗 https://club-manager.pro
 
 ---
@@ -51,6 +46,18 @@ An all-in-one ERP and multi-tenant digital operating system built specifically f
 
 ---
 
+### FPA Coaching App (Fitness Performance Academy)
+An elite-grade athletic performance, education, and physical preparation platform designed for coaches and trainers. FPA operates as a comprehensive digital ecosystem that streamlines client management, physical conditioning programs, nutrition tracking, and recovery metrics.
+
+* **Elite Architecture:** Designed as a progressive web application (PWA) with offline support, system-level notifications, and rapid-access app installation to optimize coaching workflows.
+* **Multi-Tier Identity Service:** Features a dedicated, standalone authentication microservice powering role-based access for admins, head coaches, physical trainers, and athletes.
+* **Performance Intelligence:** Integrated modules for lesson planning, physical preparation methodology, exam evaluation engine, and course tracking.
+* **Tech Stack:** FastAPI (Backend) • Next.js (Dashboard & PWA Front-end) • Standalone Auth Microservice • PostgreSQL • Redis
+
+🔗 https://app.fpa-coaching.com
+
+---
+
 ### HBT Performance Hub
 Performance tracking platform built with FastAPI and Next.js.
 
@@ -62,13 +69,6 @@ Performance tracking platform built with FastAPI and Next.js.
 Full-stack gym e-commerce system built with FastAPI + React.
 
 🔗 https://github.com/MhmdSaadi/GYM_CLICK
-
----
-
-### FPA Coaching App
-Full-stack coaching platform with FastAPI backend, Next.js dashboard, and standalone auth service.
-
-🔗 https://app.fpa-coaching.com
 
 ---
 
