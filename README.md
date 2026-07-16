@@ -44,6 +44,8 @@ An all-in-one ERP and multi-tenant digital operating system built specifically f
 * **Manual-Activation SaaS Model:** Incorporates custom offline-activation and payment confirmation workflows (via WhatsApp/Email).
 * **Tech Stack:** Next.js • FastAPI • PostgreSQL • Docker
 
+🔗 https://academy-manager-lake.vercel.app/
+
 ---
 
 ### FPA Coaching App (Fitness Performance Academy)
