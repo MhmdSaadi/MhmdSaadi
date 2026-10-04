@@ -1,111 +1,70 @@
 # Hi, I'm Mohammed Saadi 👋
 
-Backend / Full-Stack Developer  
-Python • FastAPI • Next.js • PostgreSQL • Docker  
-
-Co-Founder & CIO @ Club Manager Pro
-
-I build scalable backend systems, SaaS platforms, and performance-focused web applications.
-
-My work focuses on designing APIs, building full-stack products, and creating systems that solve real-world problems.
+- 💡 Co-Founder & CIO @ **Club Manager Pro**
+- ⚡ **Python • FastAPI • Next.js • PostgreSQL • Docker**
+- ✍️ Backend, multi-agent AI systems, SaaS platforms, & sports tech
+- 🌱 Open source maintainer & AI engineering enthusiast
+- ☕ Athletic performance background & former national gymnast
+- ✨ Simple, deterministic architecture is beautiful
 
 ---
 
-## 🚀 Startup Experience
+### 📊 Tech & GitHub Stats
 
-### Club Manager Pro  
-Co-Founder & CIO  
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MhmdSaadi&layout=compact&theme=dark&hide_border=true&bg_color=0D1117" alt="Most Used Languages" height="165" />
+</p>
 
-Club Manager Pro is an enterprise sports management SaaS platform designed for professional football clubs. It is actively deployed in production to streamline athletic and team operations.
+### 🛠️ Core Technologies & Tools
 
-The platform enables clubs to manage:
-* **Athletic Profiles:** Longitudinal performance tracking and medical history.
-* **Training Periodization:** Dynamic development of specialized microcycles and training programs.
-* **Operational Workflows:** Complete management of team schedules, travel logistics, and staff operations.
-
-**Active Production Deployments:**
-* MCA Alger
-* Paradou AC
-* ES Ben Aknoun
-
-**Tech Stack:** FastAPI • Next.js • PostgreSQL • Docker  
-🔗 https://club-manager.pro
-
----
-
-## 💻 Featured Projects
-
-### AcademyManager (AM)
-An all-in-one ERP and multi-tenant digital operating system built specifically for private football academies. It streamlines member subscriptions, financials, field rentals, event management, staff workflows, and generates branded public landing pages for academies to drive registrations.
-
-* **Multi-Tenant ERP:** Built to manage registrations, custom billing workflows, tryouts, and complex scheduling.
-* **Operational Scale:** Powering 3+ active academies, tracking 400+ players, with 99.9% uptime.
-* **Localization & Flexibility:** Full AR / FR / EN multi-language support to cater to diverse communities.
-* **Manual-Activation SaaS Model:** Incorporates custom offline-activation and payment confirmation workflows (via WhatsApp/Email).
-* **Tech Stack:** Next.js • FastAPI • PostgreSQL • Docker
-
-🔗 https://academy-manager-lake.vercel.app/
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" />
+</p>
 
 ---
 
-### FPA Coaching App (Fitness Performance Academy)
-An elite-grade athletic performance, education, and physical preparation platform designed for coaches and trainers. FPA operates as a comprehensive digital ecosystem that streamlines client management, physical conditioning programs, nutrition tracking, and recovery metrics.
+## 🚀 Active Projects & SaaS
 
-* **Elite Architecture:** Designed as a progressive web application (PWA) with offline support, system-level notifications, and rapid-access app installation to optimize coaching workflows.
-* **Multi-Tier Identity Service:** Features a dedicated, standalone authentication microservice powering role-based access for admins, head coaches, physical trainers, and athletes.
-* **Performance Intelligence:** Integrated modules for lesson planning, physical preparation methodology, exam evaluation engine, and course tracking.
-* **Tech Stack:** FastAPI (Backend) • Next.js (Dashboard & PWA Front-end) • Standalone Auth Microservice • PostgreSQL • Redis
+### 🤖 [Mail2TicketAgent](https://github.com/MhmdSaadi/Mail2TicketAgent)
+**Local-first, multi-agent IT helpdesk intake system**
+* **Core Architecture:** Specialized Pydantic AI agents powered by self-hosted Ollama for email classification and GLPI ticketing orchestration.
+* **Deterministic Guards:** Built-in relevance guards guaranteeing 100% incident recall without silent message drops.
+* **Reliability & Testing:** Fully containerized with offline evaluation harness (`uv`, 130+ tests, ruff-clean).
+* **Tech Stack:** `FastAPI` • `Pydantic AI` • `Ollama` • `GLPI REST API` • `Docker`
 
-🔗 https://app.fpa-coaching.com
+### 🏆 [Club Manager Pro](https://club-manager.pro)
+**Enterprise sports management SaaS platform for professional football clubs**
+* Streamlines longitudinal athletic profiles, training periodization, microcycles, and squad operations.
+* Deployed in production with top Algerian Ligue 1 clubs including **MC Alger**, **Paradou AC**, and **ES Ben Aknoun**.
+* **Tech Stack:** `FastAPI` • `Next.js` • `PostgreSQL` • `Docker`
 
----
-
-### HBT Performance Hub
-Performance tracking platform built with FastAPI and Next.js.
-
-🔗 https://hbt-performance-hub.vercel.app/en
-
----
-
-### Gym Click
-Full-stack gym e-commerce system built with FastAPI + React.
-
-🔗 https://github.com/MhmdSaadi/GYM_CLICK
+### ⚽ [AcademyManager](https://academy-manager-lake.vercel.app/)
+**Multi-tenant digital operating system for football academies**
+* Manages subscriptions, field rentals, tryouts, billing, and custom offline payment workflows (WhatsApp/Email).
+* Active across multiple academies tracking 400+ players with full AR/FR/EN localization.
+* **Tech Stack:** `Next.js` • `FastAPI` • `PostgreSQL` • `Docker`
 
 ---
 
-## ⚙️ Tech Stack
+## 💻 Other Open Source & Projects
 
-**Backend** Python • FastAPI • Django
-
-**Frontend** Next.js • React • JavaScript • TypeScript
-
-**Database & Caching** PostgreSQL • Redis
-
-**DevOps & Tools** Docker • Git • GitHub
+* 🏋️ **[FPA Coaching App](https://app.fpa-coaching.com):** PWA athletic performance & physical preparation platform featuring custom identity authentication microservice (`FastAPI`, `Next.js`, `Redis`).
+* 📊 **[HBT Performance Hub](https://hbt-performance-hub.vercel.app/en):** Athlete performance tracking dashboard.
+* 🛍️ **[Gym Click](https://github.com/MhmdSaadi/GYM_CLICK):** Full-stack gym e-commerce system built with `FastAPI` and `React`.
 
 ---
 
-## 🧠 Future Focus
+## 📫 Connect With Me
 
-I’m currently exploring the future of backend development through **AI agents and intelligent systems**.
-
-My goal is to build backend architectures where AI agents interact with APIs, databases, and services to automate complex workflows.
-
----
-
-## 🧬 Background
-
-My path combines software engineering, sports performance, and leadership.
-
-As a former national-level gymnast and coach, I bring discipline, consistency, and a performance mindset to building software systems.
-
----
-
-## 📫 Contact
-
-**GitHub** https://github.com/MhmdSaadi  
-
-**LinkedIn** https://www.linkedin.com/in/mohammed-saadi-327ba6370/
-
-**Email** mhmd.dev3@gmail.com
+<p align="left">
+  <a href="https://github.com/MhmdSaadi"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/mohammed-saadi-327ba6370/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:mhmd.dev3@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
