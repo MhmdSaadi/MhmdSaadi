@@ -3,6 +3,7 @@
 - 💡 Co-Founder & CIO @ **Club Manager Pro**
 - ⚡ **Python • FastAPI • Next.js • PostgreSQL • Docker**
 - ✍️ Backend, multi-agent AI systems, SaaS platforms, & sports tech
+- 🎓 **AMD ROCm Certified Associate**
 - 🌱 Open source maintainer & AI engineering enthusiast
 - ☕ Athletic performance background & former national gymnast
 - ✨ Simple, deterministic architecture is beautiful
@@ -27,6 +28,14 @@
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" />
 </p>
+
+### 🎓 Licenses & Certifications
+
+<p align="left">
+  <img src="https://img.shields.io/badge/AMD_ROCm-Certified_Associate-ED1C24?style=for-the-badge&logo=amd&logoColor=white" />
+</p>
+
+* **AMD ROCm Certified Associate** — AMD Developer · Issued Oct 2026 · Expires Oct 2028
 
 ---
 
